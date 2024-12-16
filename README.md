@@ -149,3 +149,16 @@ It can also be modified to:
 - If it is a **negative question**, the history informs us that the user does not meet the first condition, so we need to ask the user if s/he also does not meet the second condition to answer the final question.  
 
 Through this simple modification, we can transfer the data from **OR-ShARC** into our new data.
+
+
+### 4. Data Augmentation
+We augmented the dataset with more instances where the answer is a follow-up question.  
+Since manual annotation is time-consuming and costly, we utilized ChatGPT as an alternative annotator.  
+We identified relevant utterances, provided the original scenario and history in the prompt, and tasked ChatGPT with rewriting the scenario.  
+The goal was to preserve the original meaning while allowing for slight variations and potentially introducing new information.  
+The prompt is presented in **Prompt**, and all ChatGPT-generated content was manually verified for quality.  
+
+ChatGPT's rewritten scenarios were highly coherent and closely aligned with the originals.  
+We generated **two new scenarios** per instance, and a review of **100 samples** showed a **100% pass rate**.  
+Additionally, ChatGPT-generated scenarios were slightly longer, increasing the complexity for model reasoning.
+
