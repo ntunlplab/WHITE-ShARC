@@ -156,7 +156,7 @@ We augmented the dataset with more instances where the answer is a follow-up que
 Since manual annotation is time-consuming and costly, we utilized ChatGPT as an alternative annotator.  
 We identified relevant utterances, provided the original scenario and history in the prompt, and tasked ChatGPT with rewriting the scenario.  
 The goal was to preserve the original meaning while allowing for slight variations and potentially introducing new information.  
-The prompt is presented in **Prompt**, and all ChatGPT-generated content was manually verified for quality.  
+The prompt is presented in [Prompts](https://github.com/ntunlplab/WHITE-ShARC/blob/main/Prompts.md), and all ChatGPT-generated content was manually verified for quality.  
 
 ChatGPT's rewritten scenarios were highly coherent and closely aligned with the originals.  
 We generated **two new scenarios** per instance, and a review of **100 samples** showed a **100% pass rate**.  
