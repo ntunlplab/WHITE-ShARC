@@ -180,7 +180,5 @@ Multi-turn Question Answering: Assessing systems' ability to handle follow-up qu
 
 Seen vs. Unseen Generalization: Evaluating model performance on rule texts encountered during training vs. new ones.
 
-Data Augmentation Evaluation: Analyzing the effect of augmented data on model performance.
-
 
 
