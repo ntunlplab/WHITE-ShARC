@@ -9,29 +9,29 @@ The utterances are divided into training, development, and test sets, which incl
 
 To cunstruct WHITE-ShARC, we used the 651 rule texts from [OR-ShARC](https://github.com/Yifan-Gao/open_retrieval_conversational_machine_reading).
 
-## Main Annotation Stage
+## 1. Main Annotation Stage
 
 In this stage, annotators were asked to carefully consider the intended audience and context when presented with a rule text. 
 They were then guided to focus on elements such as `time`, `location`, and `reason` to craft Wh-questions. 
 Minimal constraints were imposed to encourage creativity and generate diverse question formats.
 
-## Scenario Annotation:
+### 1.1 Scenario Annotation:
 
 For the scenarios, annotators were instructed to provide descriptions of 2 to 5 sentences with at least 15 words, focusing on the context in which a user would ask the given question. 
 It is important to leave some information for potential follow-up questions.
 Including irrelevant details is occasionally acceptable, reflecting real-world cases where users may provide unclear or extraneous information.
 
-## Follow-up Question Annotation:
+### 1.3 Follow-up Question Annotation:
 
 Annotators were restricted to starting follow-up questions with words like `Do`, `Does`, `Did`, `Is`, `Was`, `Are`, and `Were`, limiting answers to `Yes` or `No` . 
 To handle vague or unclear user queries, we used OR-ShARC rule texts to generate ambiguous Wh-questions, requiring follow-up for a final answer. 
 This approach avoids open-ended follow-ups, ensuring a precise evaluation and direct comparison of model outputs.
 
-## Answer Annotation:
+### 1.4 Answer Annotation:
 For answers, we required adherence to the rule text's terminology and encouraged brevity. Complete sentences were unnecessary; for instance, `$75` suffices instead of `You can get $75.`  
 These guidelines ensure a more accurate evaluation of the model's performance.
 
-## Difficulties:  
+### 1.5 Difficulties:  
 Creating Wh-questions that prompt relevant follow-ups proved challenging, as it required crafting conversational questions that need further context, rather than those answerable directly from the rule text. 
 To address this, we invited six annotators, selecting three as elite annotators for their creativity and detail-oriented work. 
 These elite annotators generated conversational Wh-questions to engage users.
@@ -42,7 +42,7 @@ Each data entry undergoes a secondary confirmation process by another annotator 
 Only when the data passes this procedure is it retained for further use.
 Through this procedure, we aim to enhance the robustness and quality of our dataset, instilling confidence in its reliability and integrity.
 
-# Human Augmentation Stage
+## 2. Human Augmentation Stage
 
 At this stage, our goal is to augment the data from the main annotation phase with more challenging examples. 
 We begin by selecting existing conversational data, then provide annotators with pairs of follow-up questions and answers, which they convert into scenario information using different vocabulary. 
@@ -50,7 +50,7 @@ This increases the difficulty during both retrieval and contextual processing, s
 We select pairs for conversion, ensuring essential information from existing scenarios is retained. 
 After conversion, another annotator verifies that the modified data remains consistent with the original in content and meaning.
 
-# Transfer Stage
+## 3. Transfer Stage
 
 During the planning of the main annotation stage, we identified a specific type of Wh-question format.
 This question format shares logical similarities with yes-no questions, prompting the potential transfer of data from OR-ShARC to WHITE-ShARC. 
@@ -59,7 +59,7 @@ The annotators' main task is to create a new answer.
 To ensure a deep understanding of the rule text, annotators first label the `logic` within the text. 
 Once they fully grasp the content, they generate a new answer consistent with the provided information.
 
-## Logic
+### 3.1 Logic
 
 After examining a large portion of the rule texts, we have identified several commonly occurring logic patterns.  
 Most explanations below will be under the premise that a user expresses a desire to apply for a loan.  
@@ -102,9 +102,9 @@ There is no specific logic involved. The conditions are presented in a concise a
 **Others:**  
 Rule texts that do not fit into any of the aforementioned categories.
 
+### 3.2 Transfer Stage Guideline
 
-
-### Final Utterance Transfer
+#### 3.2.1 Final Utterance Transfer
 
 Our primary objective is to generate **New Questions** and **New Answers** from OR-ShARC while retaining other relevant information. The generation of New Questions and Answers is based on the transformation of the Original Questions and Answers. When the Original Answer is **"Yes"**, the Original Question is transformed into an affirmative question starting with **"Why,"** as shown in the following example.  
 
@@ -129,7 +129,7 @@ On the other hand, when the question is **negative** and the main logic of the r
 
 ---
 
-### Internal Utterance Transfer
+#### 3.2.2 Internal Utterance Transfer
 
 The first step, similar to the previous process, involves converting the original question into a **"Why"** question format. We randomly formulate some questions as affirmative sentences and others as negative sentences while preserving the **rule text**, **scenario**, **history**, and **answer** in their original form.
 
