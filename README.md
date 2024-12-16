@@ -27,6 +27,17 @@ Annotators were restricted to starting follow-up questions with words like `Do`,
 To handle vague or unclear user queries, we used OR-ShARC rule texts to generate ambiguous Wh-questions, requiring follow-up for a final answer. 
 This approach avoids open-ended follow-ups, ensuring a precise evaluation and direct comparison of model outputs.
 
+## Answer Annotation:
+For answers, we required adherence to the rule text's terminology and encouraged brevity. Complete sentences were unnecessary; for instance, `$75` suffices instead of `You can get $75.`  
+These guidelines ensure a more accurate evaluation of the model's performance.
 
+## Difficulties:  
+Creating Wh-questions that prompt relevant follow-ups proved challenging, as it required crafting conversational questions that need further context, rather than those answerable directly from the rule text. 
+To address this, we invited six annotators, selecting three as elite annotators for their creativity and detail-oriented work. 
+These elite annotators generated conversational Wh-questions to engage users.
+Despite this, generating large volumes of questions by elite annotators remains labor-intensive, necessitating additional augmentation methods to expand the dataset.
 
-
+To train the annotators, we have prepared a set of instructional examples encompassing both conversational (multi-run dialogue) and non-conversational (single-run dialogue) formats.
+Each data entry undergoes a secondary confirmation process by another annotator to ensure its accuracy and quality. 
+Only when the data passes this procedure is it retained for further use.
+Through this procedure, we aim to enhance the robustness and quality of our dataset, instilling confidence in its reliability and integrity.
