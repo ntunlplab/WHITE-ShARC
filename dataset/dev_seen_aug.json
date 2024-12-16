@@ -1,0 +1,860 @@
+[
+    {
+        "utterance_id": "u-ds-4-a-0",
+        "question": "Why can't I claim and deal with tax credits for this person?",
+        "scenario": "I am looking for information about tax credits. Although they do not reside in my household, I am inquiring about a payment I received after a family member's death.",
+        "answer": "Are they a child uner 16?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "440",
+        "snippet_seen": true,
+        "snippet": "## Your child is under 16\n\nIf your child has a baby, you can make the claim for both of them if they live with you. The money will be paid to you.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-4-a-1",
+        "question": "Why can't I claim and deal with tax credits for this person?",
+        "scenario": "I need some clarity on tax credit policies. The matter at hand pertains to a bereavement payout, although the recipients do not share a residence with me.",
+        "answer": "Are they a child uner 16?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "440",
+        "snippet_seen": true,
+        "snippet": "## Your child is under 16\n\nIf your child has a baby, you can make the claim for both of them if they live with you. The money will be paid to you.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-132-a-0",
+        "question": "Why can I claim this expense for going to the tribunal?",
+        "scenario": "At the moment, I am enjoying my lunch at the Oxford University cafeteria. I feel excited to start my university courses, knowing that I will be 18 years old. ",
+        "answer": "Are you going to tribunal?",
+        "history": [
+            {
+                "follow_up_question": "Is it a travel expense to cover your fare if you get there using public transport?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are the expenses travel expenses of 12p per mile if you drive, plus 2p per mile for up to 2 passengers?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "220",
+        "snippet_seen": true,
+        "snippet": "## Claim expenses\n\nYou may be able to claim for reasonable expenses for going to the tribunal, for example:\n\n* travel expenses to cover your fare if you get there using public transport\n* travel expenses of 12p per mile if you drive, plus 2p per mile for up to 2 passengers\n* meals - £4.25 if you’re away for more than 5 hours, £9.30 for more than 10 hours or £13.55 for more than 12 hours\n* loss of earnings - £37.06 if you’re away from work for up to 4 hours or £71.80 for 4 hours or more",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-132-a-1",
+        "question": "Why can I claim this expense for going to the tribunal?",
+        "scenario": "As of now, I am having my lunch at the cafeteria of the prestigious Oxford University, where I will soon begin my higher education journey as an 18-year-old. I look forward to the new chapter that awaits me.",
+        "answer": "Are you going to tribunal?",
+        "history": [
+            {
+                "follow_up_question": "Is it a travel expense to cover your fare if you get there using public transport?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are the expenses travel expenses of 12p per mile if you drive, plus 2p per mile for up to 2 passengers?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "220",
+        "snippet_seen": true,
+        "snippet": "## Claim expenses\n\nYou may be able to claim for reasonable expenses for going to the tribunal, for example:\n\n* travel expenses to cover your fare if you get there using public transport\n* travel expenses of 12p per mile if you drive, plus 2p per mile for up to 2 passengers\n* meals - £4.25 if you’re away for more than 5 hours, £9.30 for more than 10 hours or £13.55 for more than 12 hours\n* loss of earnings - £37.06 if you’re away from work for up to 4 hours or £71.80 for 4 hours or more",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-158-a-0",
+        "question": "What form should I use for register by post?",
+        "scenario": "As the proprietor of a trading enterprise, I am considering registering through the mail. ",
+        "answer": "Are you an EU business ‘distance selling’ to the UK?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "494",
+        "snippet_seen": true,
+        "snippet": "#  2. How to register\n\nRegister by post using form:\n\n* VAT1A if you’re an EU business ‘distance selling’ to the UK\n* VAT1B if you import (‘acquire’) goods worth more than £85,000 from another EU country\n* VAT1C if you’re disposing of assets on which 8th or 13th Directive refunds have been claimed",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-158-a-1",
+        "question": "What form should I use for register by post?",
+        "scenario": "I own a company that engages in trading activities, and I am interested in completing the registration process by sending in my application via postal service.",
+        "answer": "Are you an EU business ‘distance selling’ to the UK?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "494",
+        "snippet_seen": true,
+        "snippet": "#  2. How to register\n\nRegister by post using form:\n\n* VAT1A if you’re an EU business ‘distance selling’ to the UK\n* VAT1B if you import (‘acquire’) goods worth more than £85,000 from another EU country\n* VAT1C if you’re disposing of assets on which 8th or 13th Directive refunds have been claimed",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-116-a-0",
+        "question": "What should I do to require for inheriting additional State Pension?\n",
+        "scenario": "In the year 2016, I tied the knot with my beloved spouse. Unfortunately, she has departed from this world.",
+        "answer": "Did your marriage or civil partnership with them began before 6 April 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "493",
+        "snippet_seen": true,
+        "snippet": "## Inheriting Additional State Pension\n\nYou might inherit part of your deceased partner’s Additional State Pension if your marriage or civil partnership with them began before 6 April 2016 and one of the following applies:\n\n* your partner reached State Pension age before 6 April 2016\n* they died before 6 April 2016 but would have reached State Pension age on or after that date",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-116-a-1",
+        "question": "What should I do to require for inheriting additional State Pension?\n",
+        "scenario": "In 2016, I entered into matrimony with the love of my life. Regrettably, she passed away.",
+        "answer": "Did your marriage or civil partnership with them began before 6 April 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "493",
+        "snippet_seen": true,
+        "snippet": "## Inheriting Additional State Pension\n\nYou might inherit part of your deceased partner’s Additional State Pension if your marriage or civil partnership with them began before 6 April 2016 and one of the following applies:\n\n* your partner reached State Pension age before 6 April 2016\n* they died before 6 April 2016 but would have reached State Pension age on or after that date",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-168-a-0",
+        "question": "Why can I get Winter Fuel Payment?",
+        "scenario": "Even though I had passed away, my wife quickly moved on and got married to my closest pal, just weeks after I was laid to rest.",
+        "answer": "Do you live in Gibraltar?",
+        "history": [
+            {
+                "follow_up_question": "Do you live in Cyprus?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you live in Greece?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "496",
+        "snippet_seen": true,
+        "snippet": "#  2. Eligibility\n\nYou can’t get the payment if you live in Cyprus, France, Gibraltar, Greece, Malta, Portugal or Spain because the average winter temperature is higher than the warmest region of the UK.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-168-a-1",
+        "question": "Why can I get Winter Fuel Payment?",
+        "scenario": "My demise did not deter my spouse from remarrying, and to my shock, she chose my dearest buddy as her new partner, shortly after my burial.",
+        "answer": "Do you live in Gibraltar?",
+        "history": [
+            {
+                "follow_up_question": "Do you live in Cyprus?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Do you live in Greece?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "496",
+        "snippet_seen": true,
+        "snippet": "#  2. Eligibility\n\nYou can’t get the payment if you live in Cyprus, France, Gibraltar, Greece, Malta, Portugal or Spain because the average winter temperature is higher than the warmest region of the UK.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-35-a-0",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "As the director of a business company, I have concerns regarding our tax matters. I believe there may be some discrepancies that need to be addressed. ",
+        "answer": "Are you a sole trader or partner?",
+        "history": [
+            {
+                "follow_up_question": "Is the purpose of your business is to buy and sell property?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-35-a-1",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "It has come to my attention, as the director of a business company, that there could be some issues with our tax filings. I am uncertain about the accuracy and would like to investigate further to ensure compliance with regulations.",
+        "answer": "Are you a sole trader or partner?",
+        "history": [
+            {
+                "follow_up_question": "Is the purpose of your business is to buy and sell property?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-99-a-0",
+        "question": "Why am I eligible for Dad and Partner Pay?",
+        "scenario": "At present, I do not have any children or significant other.",
+        "answer": "Are you on leave from work to help care for your new child?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "304",
+        "snippet_seen": true,
+        "snippet": "### Dad and Partner Pay\n\nA short term payment if you’re a dad or partner on leave from work to help care for your new child.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-99-a-1",
+        "question": "Why am I eligible for Dad and Partner Pay?",
+        "scenario": "Currently, I am not a parent or in a committed relationship.",
+        "answer": "Are you on leave from work to help care for your new child?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "304",
+        "snippet_seen": true,
+        "snippet": "### Dad and Partner Pay\n\nA short term payment if you’re a dad or partner on leave from work to help care for your new child.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-159-a-0",
+        "question": "Why can't I get the National Living Wage?",
+        "scenario": "I recently began employment overseas during the festive season. By the end of this month, my duration of working abroad will have reached six months. ",
+        "answer": "Are you a worker over 25?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "557",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nThe National Minimum Wage is the minimum pay per hour almost all workers are entitled to. The National Living Wage is higher than the National Minimum Wage - workers get it if they’re over 25.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-159-a-1",
+        "question": "Why can't I get the National Living Wage?",
+        "scenario": "Starting from the holiday season, I commenced working abroad. Upon completion of this month, my time spent working overseas will amount to a total of six months.",
+        "answer": "Are you a worker over 25?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "557",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nThe National Minimum Wage is the minimum pay per hour almost all workers are entitled to. The National Living Wage is higher than the National Minimum Wage - workers get it if they’re over 25.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-50-a-0",
+        "question": "How can I become a UK resident again?",
+        "scenario": "After a prolonged stay overseas, I have developed a strong desire to reside in the UK once more.",
+        "answer": "Did you leave the UK to live abroad?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "240",
+        "snippet_seen": true,
+        "snippet": "#  Tax if you leave the UK to live abroad\n\nYou might become a UK resident again if you start new activities in the UK after you’ve left, for example you get involved in a business or buy a new property.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-50-a-1",
+        "question": "How can I become a UK resident again?",
+        "scenario": "My prolonged stay in foreign lands has left me with a longing to return to the UK and settle down once again.",
+        "answer": "Did you leave the UK to live abroad?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "240",
+        "snippet_seen": true,
+        "snippet": "#  Tax if you leave the UK to live abroad\n\nYou might become a UK resident again if you start new activities in the UK after you’ve left, for example you get involved in a business or buy a new property.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-55-a-0",
+        "question": "Why can't I export this product to North Korea?",
+        "scenario": "I am a 46-year-old American entrepreneur who deals with non-luxury sports equipment, catering to skiing, golfing, diving, and water sports enthusiasts.",
+        "answer": "Is the equipment for gaming like billiards, automatic bowling, casino games and slow machines?",
+        "history": [
+            {
+                "follow_up_question": "Is the luxury good equipment for skiing, golf, diving and water sports?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "270",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* equipment for skiing, golf, diving and water sports\n* equipment for gaming like billiards, automatic bowling, casino games and slot machines",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-55-a-1",
+        "question": "Why can't I export this product to North Korea?",
+        "scenario": "As a self-made American businessman aged 46, I specialize in affordable sports equipment for skiing, golfing, diving, and water sports, providing budget-friendly options for enthusiasts.",
+        "answer": "Is the equipment for gaming like billiards, automatic bowling, casino games and slow machines?",
+        "history": [
+            {
+                "follow_up_question": "Is the luxury good equipment for skiing, golf, diving and water sports?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "270",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* equipment for skiing, golf, diving and water sports\n* equipment for gaming like billiards, automatic bowling, casino games and slot machines",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-110-a-0",
+        "question": "Why can't I use the same certificate?",
+        "scenario": "My EHC number remains valid for a few additional months.",
+        "answer": "Do you plan to export the same type of product again?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "277",
+        "snippet_seen": true,
+        "snippet": "### If you export the same type of product again\n\nYou can use the same certificate if your EHC number is still up to date. Check you have the most recent version in the latest  EHC list (PDF, 299KB, 70 pages)  . If you don’t, contact the APHA Centre for International Trade Carlisle.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-110-a-1",
+        "question": "Why can't I use the same certificate?",
+        "scenario": "I still have several months left before my EHC number becomes invalid.",
+        "answer": "Do you plan to export the same type of product again?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "277",
+        "snippet_seen": true,
+        "snippet": "### If you export the same type of product again\n\nYou can use the same certificate if your EHC number is still up to date. Check you have the most recent version in the latest  EHC list (PDF, 299KB, 70 pages)  . If you don’t, contact the APHA Centre for International Trade Carlisle.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-39-a-0",
+        "question": "Why can't I get a plant health certificate?",
+        "scenario": "As a middle-aged gentleman, I have decided not to venture beyond the borders of the United Kingdom for either leisure or work purposes. ",
+        "answer": "Will you apply for your plants to be tested?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "254",
+        "snippet_seen": true,
+        "snippet": "### Apply for a plant health certificate\n\nYou must usually apply for your plants to be tested before you get a plant health certificate.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-39-a-1",
+        "question": "Why can't I get a plant health certificate?",
+        "scenario": "Being in my early 40s, I have made the firm decision to restrict my travel to within the United Kingdom and not venture abroad, no matter what the purpose may be.",
+        "answer": "Will you apply for your plants to be tested?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "254",
+        "snippet_seen": true,
+        "snippet": "### Apply for a plant health certificate\n\nYou must usually apply for your plants to be tested before you get a plant health certificate.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-2-a-0",
+        "question": "Why can't I get Crisis Payment?",
+        "scenario": "As a teenage boy hailing from the UK, I have queries regarding Crisis Payments. Recently, I had a two-week stint in jail. ",
+        "answer": "Did you just get out of jail?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "75",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nCrisis Payment can help if you:\n\n* get out of jail\n* are experiencing family and domestic violence\n* have been in prison or psychiatric confinement for 14 days\n* have severe financial hardship",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-2-a-1",
+        "question": "Why can't I get Crisis Payment?",
+        "scenario": "Being a 16-year-old lad residing in the United Kingdom, I've been pondering about Crisis Payments. I had a brief stint in prison lasting 14 days not long ago.",
+        "answer": "Did you just get out of jail?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "75",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nCrisis Payment can help if you:\n\n* get out of jail\n* are experiencing family and domestic violence\n* have been in prison or psychiatric confinement for 14 days\n* have severe financial hardship",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-163-a-0",
+        "question": "Why can I get Crisis Payment?",
+        "scenario": "Having spent my entire childhood in Clovelly, Devon, I recently left my house in Manchester with my children to escape the abusive behavior of my wife, which had escalated to physical violence.",
+        "answer": "Did you just get out of jail?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "75",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nCrisis Payment can help if you:\n\n* get out of jail\n* are experiencing family and domestic violence\n* have been in prison or psychiatric confinement for 14 days\n* have severe financial hardship",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-163-a-1",
+        "question": "Why can I get Crisis Payment?",
+        "scenario": "After growing up in Clovelly, Devon, I decided to flee my marriage in Manchester with my kids to protect ourselves from my wife's abusive actions, which had turned physical.",
+        "answer": "Did you just get out of jail?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "75",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nCrisis Payment can help if you:\n\n* get out of jail\n* are experiencing family and domestic violence\n* have been in prison or psychiatric confinement for 14 days\n* have severe financial hardship",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-112-a-0",
+        "question": "When will I stop receiving the increase I claim?",
+        "scenario": "As a male, I am seeking an extension to my state pension benefits.",
+        "answer": "Are you a man claiming the increase for your wife?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "465",
+        "snippet_seen": true,
+        "snippet": "## If you get Adult Dependency Increase\n\nIf you’re a man claiming the increase for your wife, you’ll stop receiving the increase when she reaches State Pension age. You don’t need to tell the Pension Service about this.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-112-a-1",
+        "question": "When will I stop receiving the increase I claim?",
+        "scenario": "My gender is male and I am seeking to enhance my state pension entitlement.",
+        "answer": "Are you a man claiming the increase for your wife?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "465",
+        "snippet_seen": true,
+        "snippet": "## If you get Adult Dependency Increase\n\nIf you’re a man claiming the increase for your wife, you’ll stop receiving the increase when she reaches State Pension age. You don’t need to tell the Pension Service about this.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-33-a-0",
+        "question": "Why can't I be classified as a worker?",
+        "scenario": "For a couple of months now, I've been aiding an individual who's a gem, ensuring that I have all the necessary resources for a fruitful accomplishment of the tasks at hand.",
+        "answer": "Can they send someone else to do your work?",
+        "history": [
+            {
+                "follow_up_question": "Are you under the supervision or control of a manager or director?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "401",
+        "snippet_seen": true,
+        "snippet": "## Casual or irregular work\n\nSomeone is likely to be a worker if one of these apply:\n\n* they are under the supervision or control of a manager or director\n* they can’t send someone else to do their work\n* the business deducts tax and National Insurance contributions from their wages\n* the business provides materials, tools or equipment they need to do the work",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-33-a-1",
+        "question": "Why can't I be classified as a worker?",
+        "scenario": "I have been assisting somebody for a few months, and he or she is really amazing, always making certain that I am adequately equipped to complete my tasks successfully.",
+        "answer": "Can they send someone else to do your work?",
+        "history": [
+            {
+                "follow_up_question": "Are you under the supervision or control of a manager or director?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "401",
+        "snippet_seen": true,
+        "snippet": "## Casual or irregular work\n\nSomeone is likely to be a worker if one of these apply:\n\n* they are under the supervision or control of a manager or director\n* they can’t send someone else to do their work\n* the business deducts tax and National Insurance contributions from their wages\n* the business provides materials, tools or equipment they need to do the work",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-131-a-0",
+        "question": "What pay can I get during sick leave?",
+        "scenario": "Is it certain that the British authorities will ensure payment while I am not working for medical reasons?",
+        "answer": "Do you work for a UK employer in the European Economic Area (EEA) or Switzerland?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "28",
+        "snippet_seen": true,
+        "snippet": "## Statutory Sick Pay (SSP)\n\nYou can get SSP if you’re eligible and either of the following apply:\n\n* you work for a UK employer in the European Economic Area (EEA) or Switzerland\n* you work outside the EEA and your employer pays National Insurance contributions for you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-131-a-1",
+        "question": "What pay can I get during sick leave?",
+        "scenario": "Can the UK government provide assurance that I will receive payment while taking sick leave?",
+        "answer": "Do you work for a UK employer in the European Economic Area (EEA) or Switzerland?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "28",
+        "snippet_seen": true,
+        "snippet": "## Statutory Sick Pay (SSP)\n\nYou can get SSP if you’re eligible and either of the following apply:\n\n* you work for a UK employer in the European Economic Area (EEA) or Switzerland\n* you work outside the EEA and your employer pays National Insurance contributions for you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-45-a-0",
+        "question": "Why can I apply for a Tier 4 (General) student visa?",
+        "scenario": "I need some assistance regarding the visa process. I meet all the other prerequisites, except for the ones related to Resident Care providers. ",
+        "answer": "Are you over the age of 16?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "546",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can apply for a Tier 4 (General) student visa to study in the UK if you’re 16 or over and you:\n\n* meet the other eligibility requirements",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-45-a-1",
+        "question": "Why can I apply for a Tier 4 (General) student visa?",
+        "scenario": "I am inquiring about the visa application procedure. While I satisfy all the necessary conditions, I do not have any affiliation with Resident Care providers.",
+        "answer": "Are you over the age of 16?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "546",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can apply for a Tier 4 (General) student visa to study in the UK if you’re 16 or over and you:\n\n* meet the other eligibility requirements",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-147-a-0",
+        "question": "What pay can I get during sick leave?",
+        "scenario": "As an entrepreneur, I run my own company and manage all its operations efficiently. ",
+        "answer": "Do you work for a UK employer in the European Economic Area (EEA) or Switzerland?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "28",
+        "snippet_seen": true,
+        "snippet": "## Statutory Sick Pay (SSP)\n\nYou can get SSP if you’re eligible and either of the following apply:\n\n* you work for a UK employer in the European Economic Area (EEA) or Switzerland\n* you work outside the EEA and your employer pays National Insurance contributions for you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-147-a-1",
+        "question": "What pay can I get during sick leave?",
+        "scenario": "Being someone who works in the business world, I handle various tasks such as marketing strategies, financial planning, and employee management, all with the aim of ensuring the success of my venture.",
+        "answer": "Do you work for a UK employer in the European Economic Area (EEA) or Switzerland?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "28",
+        "snippet_seen": true,
+        "snippet": "## Statutory Sick Pay (SSP)\n\nYou can get SSP if you’re eligible and either of the following apply:\n\n* you work for a UK employer in the European Economic Area (EEA) or Switzerland\n* you work outside the EEA and your employer pays National Insurance contributions for you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-18-a-0",
+        "question": "Why can I claim my Medicare benefit?",
+        "scenario": "I completed my Medicare enrollment in person at an office. ",
+        "answer": "Do you have the Express Plus Medicare app?",
+        "history": [
+            {
+                "follow_up_question": "Is your Medicare online account through MyGov?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Did your doctor's practice help claim it?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "23",
+        "snippet_seen": true,
+        "snippet": "## How to submit a claim\n\nThe quickest and easiest way to claim your Medicare benefit is at your doctor's practice. Ask if they can do this for you. If your doctor doesn't offer electronic claiming, you can claim your Medicare benefit using:\n\n* your Medicare online account through myGov, or\n* the Express Plus Medicare mobile app",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-18-a-1",
+        "question": "Why can I claim my Medicare benefit?",
+        "scenario": "I registered for Medicare by visiting a physical office location.",
+        "answer": "Do you have the Express Plus Medicare app?",
+        "history": [
+            {
+                "follow_up_question": "Is your Medicare online account through MyGov?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Did your doctor's practice help claim it?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "23",
+        "snippet_seen": true,
+        "snippet": "## How to submit a claim\n\nThe quickest and easiest way to claim your Medicare benefit is at your doctor's practice. Ask if they can do this for you. If your doctor doesn't offer electronic claiming, you can claim your Medicare benefit using:\n\n* your Medicare online account through myGov, or\n* the Express Plus Medicare mobile app",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-86-a-0",
+        "question": "What kinds of changes will be made to my tax credit? ",
+        "scenario": "As a mother to young children, I recently found myself out of work and going through a divorce. The challenges of raising a family while dealing with these stressful situations have been difficult to navigate, but I am doing my best to stay positive and focused on finding new opportunities for myself and my children.",
+        "answer": "Did your family or work life change?",
+        "history": [
+            {
+                "follow_up_question": "Did your circumstances change?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "505",
+        "snippet_seen": true,
+        "snippet": "## If your circumstances change\n\nYour tax credits can go up or down if your family or work life change if you start a new job, you’re laid off work or your partner dies.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-86-a-1",
+        "question": "What kinds of changes will be made to my tax credit? ",
+        "scenario": "Juggling the responsibilities of motherhood and a career can be tough at the best of times, but it's especially challenging when you're going through a divorce and have lost your job. Despite these setbacks, I'm staying optimistic and working hard to create a new beginning for myself and my family.",
+        "answer": "Did your family or work life change?",
+        "history": [
+            {
+                "follow_up_question": "Did your circumstances change?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "505",
+        "snippet_seen": true,
+        "snippet": "## If your circumstances change\n\nYour tax credits can go up or down if your family or work life change if you start a new job, you’re laid off work or your partner dies.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-47-a-0",
+        "question": "Why can't I get tax credits?",
+        "scenario": "At the age of 53, I am anxious about not completing my paperwork before something happens to me. Despite making my claim and fulfilling all the requirements, I had to use a computer to upload everything and follow the procedure. It is frustrating to waste time doing things on a computer that could have been completed quicker with physical paperwork.",
+        "answer": "Do you meet the other qualifying rules, eg work the right number of hours?",
+        "history": [
+            {
+                "follow_up_question": "Are you ‘subject to immigration control’?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "114",
+        "snippet_seen": true,
+        "snippet": "#  6. Immigration control\n\nYou usually can’t get tax credits if you’re ‘subject to immigration control’, although there are some exceptions. You’ll still need to meet the other qualifying rules, eg work the right number of hours.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-47-a-1",
+        "question": "Why can't I get tax credits?",
+        "scenario": "It is daunting to be 53 and realize that I may pass away before I get through all of the paperwork. I submitted my claim and completed every task necessary, including uploading all of the necessary documents using a computer. It can be time-consuming and tedious to have to complete everything three times more than necessary.",
+        "answer": "Do you meet the other qualifying rules, eg work the right number of hours?",
+        "history": [
+            {
+                "follow_up_question": "Are you ‘subject to immigration control’?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "114",
+        "snippet_seen": true,
+        "snippet": "#  6. Immigration control\n\nYou usually can’t get tax credits if you’re ‘subject to immigration control’, although there are some exceptions. You’ll still need to meet the other qualifying rules, eg work the right number of hours.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-26-a-0",
+        "question": "Why can I get Public Housing?",
+        "scenario": "Despite my age of 92 and owning numerous jewelry pieces, I am still struggling to pay my rent.",
+        "answer": "Are you a low-income family?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "190",
+        "snippet_seen": true,
+        "snippet": "# Find Affordable Rental Housing\n\nPublic Housing provides affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. To apply, contact a public housing agency in your state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-26-a-1",
+        "question": "Why can I get Public Housing?",
+        "scenario": "My age of 92 doesn't stop me from having an abundance of jewelry, but I am still unable to cover the costs of my housing.",
+        "answer": "Are you a low-income family?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "190",
+        "snippet_seen": true,
+        "snippet": "# Find Affordable Rental Housing\n\nPublic Housing provides affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. To apply, contact a public housing agency in your state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-34-a-0",
+        "question": "What benefits will be reduced or stopped if I commit a crime?",
+        "scenario": "I got entangled in a fraudulent scheme related to tax filings. I'm worried that my eligibility for government assistance may be revoked. ",
+        "answer": "Did you commit benefit fraud?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "527",
+        "snippet_seen": true,
+        "snippet": "## Sanctionable benefits\n\nThe following benefits can be reduced or stopped if you commit benefit fraud:\n\n* Industrial Injuries Retirement Allowance\n* Industrial Injuries Unemployability Supplement\n* Jobseeker’s Allowance\n* Severe Disablement Allowance",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-34-a-1",
+        "question": "What benefits will be reduced or stopped if I commit a crime?",
+        "scenario": "My tax return was flagged for inconsistent invoices, which were later found to be fraudulent. I'm anxious about the possibility of losing my government benefits.",
+        "answer": "Did you commit benefit fraud?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "527",
+        "snippet_seen": true,
+        "snippet": "## Sanctionable benefits\n\nThe following benefits can be reduced or stopped if you commit benefit fraud:\n\n* Industrial Injuries Retirement Allowance\n* Industrial Injuries Unemployability Supplement\n* Jobseeker’s Allowance\n* Severe Disablement Allowance",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-88-a-0",
+        "question": "Why can I get Cold Weather Payments?",
+        "scenario": "Despite being jobless, my EHC remains effective.",
+        "answer": "Do you get Universal Credit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "248",
+        "snippet_seen": true,
+        "snippet": "## Universal Credit\n\nYou’ll usually get Cold Weather Payments if you get Universal Credit, you’re not employed or self-employed and one of the following apply:\n\n* you get a limited capability for work amount (with or without a work-related activity amount)\n* you get the disabled child amount in your claim\n* you have a child under 5 living with you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-88-a-1",
+        "question": "Why can I get Cold Weather Payments?",
+        "scenario": "My employment status is currently inactive, but my EHC remains in force.",
+        "answer": "Do you get Universal Credit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "248",
+        "snippet_seen": true,
+        "snippet": "## Universal Credit\n\nYou’ll usually get Cold Weather Payments if you get Universal Credit, you’re not employed or self-employed and one of the following apply:\n\n* you get a limited capability for work amount (with or without a work-related activity amount)\n* you get the disabled child amount in your claim\n* you have a child under 5 living with you",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-46-a-0",
+        "question": "Why am I not eligible for the Parenting Payment?",
+        "scenario": "A woman from the UK is seeking advice on Parenting Payment despite having never studied in the Bahamas. Although her income falls below the set limits, she is concerned about the eligibility criteria. ",
+        "answer": "Has your child been born?",
+        "history": [
+            {
+                "follow_up_question": "Is your income under the limits?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you meet residence rules?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "320",
+        "snippet_seen": true,
+        "snippet": "### Parenting Payment\n\n* have income under the limits\n* meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered\n* meet residence rules\n* can’t claim before the birth of a child",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ds-46-a-1",
+        "question": "Why am I not eligible for the Parenting Payment?",
+        "scenario": "A young lady, aged 23 and hailing from the United Kingdom is concerned about her eligibility for Parenting Payment. Her earnings are significantly lower than the established limits, but she has no academic background from the Bahamas.",
+        "answer": "Has your child been born?",
+        "history": [
+            {
+                "follow_up_question": "Is your income under the limits?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Do you meet residence rules?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "320",
+        "snippet_seen": true,
+        "snippet": "### Parenting Payment\n\n* have income under the limits\n* meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered\n* meet residence rules\n* can’t claim before the birth of a child",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    }
+]
