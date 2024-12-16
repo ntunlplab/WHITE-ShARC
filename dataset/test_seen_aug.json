@@ -1,0 +1,1180 @@
+[
+    {
+        "utterance_id": "u-ts-128-a-0",
+        "question": "What do I need for these benefits?",
+        "scenario": "As an educator in the United Kingdom, I am hoping to receive additional perks from the government.",
+        "answer": "Are you claiming Winter Fuel Payments?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "472",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou’ll need a statement of National Insurance you’ve paid in the UK to get these benefits - unless you’re claiming Winter Fuel Payments.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-128-a-1",
+        "question": "What do I need for these benefits?",
+        "scenario": "Seeking supplementary advantages from the government, I, a teacher in the UK's elementary education system, am eager for a favorable outcome.",
+        "answer": "Are you claiming Winter Fuel Payments?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "472",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou’ll need a statement of National Insurance you’ve paid in the UK to get these benefits - unless you’re claiming Winter Fuel Payments.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-99-a-0",
+        "question": "What kinds of changes will be made to my tax credit? ",
+        "scenario": "Since becoming unattached, I landed a fresh position seven days ago. ",
+        "answer": "Did you start a new job?",
+        "history": [
+            {
+                "follow_up_question": "Did your circumstances change?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did your family or work life change?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "505",
+        "snippet_seen": true,
+        "snippet": "## If your circumstances change\n\nYour tax credits can go up or down if your family or work life change if you start a new job, you’re laid off work or your partner dies.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-99-a-1",
+        "question": "What kinds of changes will be made to my tax credit? ",
+        "scenario": "Recently, I became a solo lady and acquired a novel occupation last week.",
+        "answer": "Did you start a new job?",
+        "history": [
+            {
+                "follow_up_question": "Did your circumstances change?",
+                "follow_up_answer": "Yes"
+            },
+            {
+                "follow_up_question": "Did your family or work life change?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "505",
+        "snippet_seen": true,
+        "snippet": "## If your circumstances change\n\nYour tax credits can go up or down if your family or work life change if you start a new job, you’re laid off work or your partner dies.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-166-a-0",
+        "question": "Why can I apply for a Tier 4 (General) student visa?",
+        "scenario": "As far as I know, I fulfill all the necessary qualifications.",
+        "answer": "Do you meet other requirements?",
+        "history": [
+            {
+                "follow_up_question": "Are you over the age of 16?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "546",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can apply for a Tier 4 (General) student visa to study in the UK if you’re 16 or over and you:\n\n* meet the other eligibility requirements",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-166-a-1",
+        "question": "Why can I apply for a Tier 4 (General) student visa?",
+        "scenario": "Based on my understanding, I satisfy all the requisite criteria.",
+        "answer": "Do you meet other requirements?",
+        "history": [
+            {
+                "follow_up_question": "Are you over the age of 16?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "546",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can apply for a Tier 4 (General) student visa to study in the UK if you’re 16 or over and you:\n\n* meet the other eligibility requirements",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-56-a-0",
+        "question": "What should my course be?",
+        "scenario": "As a student, I am currently seeking to enroll in different courses. I would appreciate your response to a question I have. Thank you. ",
+        "answer": "Does your course start before 1 August 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "498",
+        "snippet_seen": true,
+        "snippet": "## If your course starts before 1 August 2016\n\nYour course must be:\n\n* a Level 3 or 4 qualification, for example A Levels\n* at an approved college or training provider in England",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-56-a-1",
+        "question": "What should my course be?",
+        "scenario": "I am in the process of searching for courses to apply for as a student. It would be helpful if you could provide an answer to my inquiry. Thank you.",
+        "answer": "Does your course start before 1 August 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "498",
+        "snippet_seen": true,
+        "snippet": "## If your course starts before 1 August 2016\n\nYour course must be:\n\n* a Level 3 or 4 qualification, for example A Levels\n* at an approved college or training provider in England",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-106-a-0",
+        "question": "Why can't I charge VAT on this?",
+        "scenario": "With the addition of a business partner, I was able to upgrade my plastic mold making business from a Sole Trader to a Partnership. My friend's expertise and skills were an asset to the company, allowing us to expand and take on new projects. ",
+        "answer": "Is it a business good used for personal reasons?",
+        "history": [
+            {
+                "follow_up_question": "Are you a member of the staff?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "193",
+        "snippet_seen": true,
+        "snippet": "#  1. How VAT works\n\nVAT is charged on things like:\n\n* items sold to staff - for example canteen meals\n* business goods used for personal reasons\n* ‘non-sales’ like bartering, part-exchange and gifts",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-106-a-1",
+        "question": "Why can't I charge VAT on this?",
+        "scenario": "As my plastic mold making business began to grow, I realized I needed additional support, and so I brought on a friend as a partner. This transition from a Sole Trader to a Partnership allowed for more resources and greater opportunities for success. Together, we are able to take on bigger projects and provide even better service to our clients.",
+        "answer": "Is it a business good used for personal reasons?",
+        "history": [
+            {
+                "follow_up_question": "Are you a member of the staff?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "193",
+        "snippet_seen": true,
+        "snippet": "#  1. How VAT works\n\nVAT is charged on things like:\n\n* items sold to staff - for example canteen meals\n* business goods used for personal reasons\n* ‘non-sales’ like bartering, part-exchange and gifts",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-112-a-0",
+        "question": "Why can't I get Public Housing?",
+        "scenario": "New_scenario1: At the moment, I'm 27 years old. Unfortunately, my newborn child passed away due to complications a week after being born. ",
+        "answer": "Do you have a disability?",
+        "history": [
+            {
+                "follow_up_question": "Are you a low-income family?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you elderly?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "190",
+        "snippet_seen": true,
+        "snippet": "# Find Affordable Rental Housing\n\nPublic Housing provides affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. To apply, contact a public housing agency in your state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-112-a-1",
+        "question": "Why can't I get Public Housing?",
+        "scenario": "New_scenario2: I am presently 27 years old. I experienced the loss of my youngest child, who passed away just one week after being born due to complications, last month.",
+        "answer": "Do you have a disability?",
+        "history": [
+            {
+                "follow_up_question": "Are you a low-income family?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Are you elderly?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "190",
+        "snippet_seen": true,
+        "snippet": "# Find Affordable Rental Housing\n\nPublic Housing provides affordable rental houses or apartments for low-income families, people who are elderly, and people with disabilities. To apply, contact a public housing agency in your state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-36-a-0",
+        "question": "Why can't I access the Aged Care Online Services in my browser?",
+        "scenario": "Despite my concerns about computer viruses, I don't have JavaScript enabled on my computer. This leaves me unable to make certain updates to the website featuring my rental property. ",
+        "answer": "Is your browser set to allow Secure Sockets Layer (SSL)?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "54",
+        "snippet_seen": true,
+        "snippet": "### Browser requirements for Aged Care Online Services\n\nYour browser needs to be set to allow Secure Sockets Layer (SSL), cookies and JavaScript. Most browsers are supplied with SSL, cookies and JavaScript turned on. You shouldn’t need to change these settings. If you need to change these settings you can find more information in your browser’s help function.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-36-a-1",
+        "question": "Why can't I access the Aged Care Online Services in my browser?",
+        "scenario": "In an effort to safeguard my computer, I have not enabled JavaScript. However, this presents a challenge when it comes to making necessary updates to my rental property website.",
+        "answer": "Is your browser set to allow Secure Sockets Layer (SSL)?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "54",
+        "snippet_seen": true,
+        "snippet": "### Browser requirements for Aged Care Online Services\n\nYour browser needs to be set to allow Secure Sockets Layer (SSL), cookies and JavaScript. Most browsers are supplied with SSL, cookies and JavaScript turned on. You shouldn’t need to change these settings. If you need to change these settings you can find more information in your browser’s help function.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-60-a-0",
+        "question": "Why can't I apply through my local council?",
+        "scenario": "I'm a middle-aged man hailing from Austria. My home country is known for its breathtaking Alpine scenery and rich cultural history.",
+        "answer": "Are you making a new claim for housing benefit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "293",
+        "snippet_seen": true,
+        "snippet": "## If you’re only applying for Housing Benefit\n\nApply through your local council if you’re only making a new claim for Housing Benefit. You can still make a new claim if you’re already getting other benefits.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-60-a-1",
+        "question": "Why can't I apply through my local council?",
+        "scenario": "At 49 years old, I proudly identify as an Austrian male. Austria is the country I call home, with its stunning natural landscapes and vibrant cultural traditions.",
+        "answer": "Are you making a new claim for housing benefit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "293",
+        "snippet_seen": true,
+        "snippet": "## If you’re only applying for Housing Benefit\n\nApply through your local council if you’re only making a new claim for Housing Benefit. You can still make a new claim if you’re already getting other benefits.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-131-a-0",
+        "question": "When will I stop receiving the increase I claim?",
+        "scenario": "I seek to obtain an enhancement in my retirement benefits for my loved ones and I would appreciate it if you could inform me about the potential constraints.",
+        "answer": "Are you a man claiming the increase for your wife?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "465",
+        "snippet_seen": true,
+        "snippet": "## If you get Adult Dependency Increase\n\nIf you’re a man claiming the increase for your wife, you’ll stop receiving the increase when she reaches State Pension age. You don’t need to tell the Pension Service about this.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-131-a-1",
+        "question": "When will I stop receiving the increase I claim?",
+        "scenario": "I am filing for a rise in my pension funds on behalf of my family, and I would like to know what are the potential limitations involved in this process.",
+        "answer": "Are you a man claiming the increase for your wife?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "465",
+        "snippet_seen": true,
+        "snippet": "## If you get Adult Dependency Increase\n\nIf you’re a man claiming the increase for your wife, you’ll stop receiving the increase when she reaches State Pension age. You don’t need to tell the Pension Service about this.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-123-a-0",
+        "question": "Why am I not eligible for unemployment benefits?",
+        "scenario": "My current place of residence is Seattle.",
+        "answer": "Did you work at least 680 in your base year?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "146",
+        "snippet_seen": true,
+        "snippet": "## If you did work in Washington state or were discharged from the military\n\nTo determine if you are eligible for unemployment benefits we examine:\n\n1. Whether you worked enough hours in your base year:\n* You must have worked at least 680 hours in your base year.\n* At least some wages must have been earned in Washington, unless you recently left the military and are currently located in Washington state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-123-a-1",
+        "question": "Why am I not eligible for unemployment benefits?",
+        "scenario": "Seattle is the city where I am currently based.",
+        "answer": "Did you work at least 680 in your base year?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "146",
+        "snippet_seen": true,
+        "snippet": "## If you did work in Washington state or were discharged from the military\n\nTo determine if you are eligible for unemployment benefits we examine:\n\n1. Whether you worked enough hours in your base year:\n* You must have worked at least 680 hours in your base year.\n* At least some wages must have been earned in Washington, unless you recently left the military and are currently located in Washington state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-48-a-0",
+        "question": "Why can I export this luxury good to North Korea?",
+        "scenario": "The idea of purchasing a beautiful Persian rug crossed my mind, but I ended up opting for a gold coin that the vendor claimed had originated from Ancient Rome.",
+        "answer": "Is it pearls or semi precious stones?",
+        "history": [
+            {
+                "follow_up_question": "Is the product a hand knotted carpet, hand woven rug or tapestry?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "35",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* hand knotted carpets, hand woven rugs and tapestries\n* pearls, precious and semi precious stones, articles of pearls, jewellery, gold or silversmith articles\n* coins and banknotes that aren’t legal tender - for example, antique coins\n* cutlery made from precious metal or plated or clad with precious metal",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-48-a-1",
+        "question": "Why can I export this luxury good to North Korea?",
+        "scenario": "Considering different items to buy, I contemplated a handcrafted Persian rug, but in the end, I bought a gold coin from the seller, which she claimed had been minted in Ancient Rome.",
+        "answer": "Is it pearls or semi precious stones?",
+        "history": [
+            {
+                "follow_up_question": "Is the product a hand knotted carpet, hand woven rug or tapestry?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "35",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* hand knotted carpets, hand woven rugs and tapestries\n* pearls, precious and semi precious stones, articles of pearls, jewellery, gold or silversmith articles\n* coins and banknotes that aren’t legal tender - for example, antique coins\n* cutlery made from precious metal or plated or clad with precious metal",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-79-a-0",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "As a corporation, I wish to inquire about certain aspects of my business operations. ",
+        "answer": "Is the purpose of your business is to buy and sell property?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-79-a-1",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "In my capacity as a company, I want to inquire about certain business-related matters.",
+        "answer": "Is the purpose of your business is to buy and sell property?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-66-a-0",
+        "question": "Who will contact with me?",
+        "scenario": "I am presently under investigation for fraudulent activities and I have no idea about what the future holds for me. ",
+        "answer": "Are you suspected of benefit fraud?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "139",
+        "snippet_seen": true,
+        "snippet": "## What happens if you’re suspected of benefit fraud\n\nYou’ll be contacted by the Department for Work and Pensions (DWP), HM Revenue and Customs (HMRC), the Service and Personnel and Veterans Agency or your local authority if you’re suspected of fraud.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-66-a-1",
+        "question": "Who will contact with me?",
+        "scenario": "My current situation is one where I am being suspected of fraudulent activities and I am uncertain as to what lies ahead for me.",
+        "answer": "Are you suspected of benefit fraud?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "139",
+        "snippet_seen": true,
+        "snippet": "## What happens if you’re suspected of benefit fraud\n\nYou’ll be contacted by the Department for Work and Pensions (DWP), HM Revenue and Customs (HMRC), the Service and Personnel and Veterans Agency or your local authority if you’re suspected of fraud.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-28-a-0",
+        "question": "Why can't I be classed as doing voluntary work?",
+        "scenario": "I have been employed by a government organization for the past few months.",
+        "answer": "Do you get certain limited benefits (for example reasonable travel or lunch expenses)?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "565",
+        "snippet_seen": true,
+        "snippet": "## Voluntary work\n\nYou’re classed as doing voluntary work if you can only get certain limited benefits (for example reasonable travel or lunch expenses) and you’re working for a:\n\n* charity\n* voluntary organisation or associated fund-raising body\n* statutory body",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-28-a-1",
+        "question": "Why can't I be classed as doing voluntary work?",
+        "scenario": "For the last few months, I have been a member of a regulatory agency.",
+        "answer": "Do you get certain limited benefits (for example reasonable travel or lunch expenses)?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "565",
+        "snippet_seen": true,
+        "snippet": "## Voluntary work\n\nYou’re classed as doing voluntary work if you can only get certain limited benefits (for example reasonable travel or lunch expenses) and you’re working for a:\n\n* charity\n* voluntary organisation or associated fund-raising body\n* statutory body",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-23-a-0",
+        "question": "What can I apply instead of Working Tax Credit?",
+        "scenario": "I'm facing a problem while trying to make alterations to my Working Tax Credit.",
+        "answer": "Are you having trouble claiming the new working tax credit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "219",
+        "snippet_seen": true,
+        "snippet": "#  2. Eligibility\n\nIf you can’t make a new claim for Working Tax Credit, you’ll usually need to apply for Universal Credit instead.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-23-a-1",
+        "question": "What can I apply instead of Working Tax Credit?",
+        "scenario": "I'm experiencing some issues while attempting to modify my Working Tax Credit.",
+        "answer": "Are you having trouble claiming the new working tax credit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "219",
+        "snippet_seen": true,
+        "snippet": "#  2. Eligibility\n\nIf you can’t make a new claim for Working Tax Credit, you’ll usually need to apply for Universal Credit instead.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-221-a-0",
+        "question": "What document do I need to sell my plants in the local market?",
+        "scenario": "As an American agricultural producer, I am interested in expanding my market presence beyond national boundaries. In this endeavor, I am looking to offer my plants and seeds to customers across different geographic regions. My primary objective is to increase my sales and grow my business by tapping into new and lucrative markets.",
+        "answer": "Are you going to sell ornamental plants?",
+        "history": [
+            {
+                "follow_up_question": "Are you going to sell the seeds, roots or any other plant ‘propagation material’?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "464",
+        "snippet_seen": true,
+        "snippet": "### Check if you need a supplier document\n\nYou need a supplier document to sell the seeds, roots or any other plant ‘propagation material’ from ornamental plants within the EU.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-221-a-1",
+        "question": "What document do I need to sell my plants in the local market?",
+        "scenario": "Being a farmer from the United States, I wish to diversify my revenue streams and capitalize on market opportunities outside my home country. Consequently, I am exploring ways to sell my plants and seeds to customers situated abroad. I recognize that expanding my business to international markets is a crucial step towards achieving my long-term goals.",
+        "answer": "Are you going to sell ornamental plants?",
+        "history": [
+            {
+                "follow_up_question": "Are you going to sell the seeds, roots or any other plant ‘propagation material’?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "464",
+        "snippet_seen": true,
+        "snippet": "### Check if you need a supplier document\n\nYou need a supplier document to sell the seeds, roots or any other plant ‘propagation material’ from ornamental plants within the EU.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-162-a-0",
+        "question": "Why can't I get Crisis Payment?",
+        "scenario": "Regarding Crisis Payments, I needed some clarification. Although I currently don't benefit from income support payments, I believe it's an essential scheme that should be available for those in need. I appreciate the measures taken to ensure a fair and just system.",
+        "answer": "Do you get a Family Tax Benefit or Child Care Benefit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "58",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nIf you get Family Tax Benefit or Child Care Benefit, you must also get another income support payment to be eligible for a crisis payment.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-162-a-1",
+        "question": "Why can't I get Crisis Payment?",
+        "scenario": "I had some doubts regarding Crisis Payments and sought some guidance. Even though I'm not a recipient of income support payments, I support the decision made as it's vital to help vulnerable individuals during emergencies. The steps taken to ensure that the process is unbiased are commendable.",
+        "answer": "Do you get a Family Tax Benefit or Child Care Benefit?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "58",
+        "snippet_seen": true,
+        "snippet": "# Who can get Crisis Payment\n\nIf you get Family Tax Benefit or Child Care Benefit, you must also get another income support payment to be eligible for a crisis payment.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-13-a-0",
+        "question": "Why am I eligible for the Parenting Payment?",
+        "scenario": "Last week, I made the decision to relocate from California to Christmas Island, leaving my job and family behind. It was a bold move, but I was ready for a change and excited for the new adventure that awaited me on the island. ",
+        "answer": "Is your income under the limits?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "320",
+        "snippet_seen": true,
+        "snippet": "### Parenting Payment\n\n* have income under the limits\n* meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered\n* meet residence rules\n* can’t claim before the birth of a child",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-13-a-1",
+        "question": "Why am I eligible for the Parenting Payment?",
+        "scenario": "I recently made the tough decision to leave behind everything I knew in California, including my job and family, to start a new chapter of my life on Christmas Island. Although it was hard to say goodbye, I am determined to make the most of this new opportunity and make a life for myself on the island.",
+        "answer": "Is your income under the limits?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "320",
+        "snippet_seen": true,
+        "snippet": "### Parenting Payment\n\n* have income under the limits\n* meet principal carer rules and care for a child under 8 if you’re single or under 6 if you’re partnered\n* meet residence rules\n* can’t claim before the birth of a child",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-29-a-0",
+        "question": "Why can't I have a cooperative in this location?",
+        "scenario": "There are no limitations on the location. I have been diagnosed with MS and the crutches are solely used for my personal medication. ",
+        "answer": "Is the location within one mile of a marijuana retailer?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "427",
+        "snippet_seen": true,
+        "snippet": "## Cooperatives\n\nNo cooperative may be located in any of the following areas:\n\n* Within one mile of a marijuana retailer;\n* Within the smaller of either:\n** 1,000 feet of schools, playgrounds, recreation centers, daycare centers, or any facility restricted to people 21 years or older, or\n** The area restricted by ordinances; or",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-29-a-1",
+        "question": "Why can't I have a cooperative in this location?",
+        "scenario": "New_Scenario2:The site does not have any constraints. As an individual with MS, I employ the crutches entirely for therapeutic purposes and no other reason.",
+        "answer": "Is the location within one mile of a marijuana retailer?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "427",
+        "snippet_seen": true,
+        "snippet": "## Cooperatives\n\nNo cooperative may be located in any of the following areas:\n\n* Within one mile of a marijuana retailer;\n* Within the smaller of either:\n** 1,000 feet of schools, playgrounds, recreation centers, daycare centers, or any facility restricted to people 21 years or older, or\n** The area restricted by ordinances; or",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-54-a-0",
+        "question": "Who should I also contact for repayments?",
+        "scenario": "It seems there is an issue with the compensation I received.",
+        "answer": "Do you think it isn’t your fault?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "514",
+        "snippet_seen": true,
+        "snippet": "#  2. When repayments have to be made\n\nYou should also contact the office if you think the amount you’re being paid is wrong and it isn’t your fault.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-54-a-1",
+        "question": "Who should I also contact for repayments?",
+        "scenario": "My payment seems to be incorrect.",
+        "answer": "Do you think it isn’t your fault?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "514",
+        "snippet_seen": true,
+        "snippet": "#  2. When repayments have to be made\n\nYou should also contact the office if you think the amount you’re being paid is wrong and it isn’t your fault.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-202-a-0",
+        "question": "Where can I get financial assistance from?",
+        "scenario": "I reside in California, but my house was ravaged by a cyclone. I am hopeful that I can receive some aid to restore my home to working order.",
+        "answer": "Were you in a declared disaster area?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "534",
+        "snippet_seen": true,
+        "snippet": "If you are in a declared disaster area and have experienced damage to your business, you may be eligible for financial assistance from the Small Business Administration (SBA). Businesses of any size and most private nonprofit organizations may apply to the SBA for a loan to recover after a disaster.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-202-a-1",
+        "question": "Where can I get financial assistance from?",
+        "scenario": "My current residence is in California, and unfortunately, a cyclone has destroyed my personal dwelling place. I am in need of assistance to be able to rebuild my home in the aftermath.",
+        "answer": "Were you in a declared disaster area?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "534",
+        "snippet_seen": true,
+        "snippet": "If you are in a declared disaster area and have experienced damage to your business, you may be eligible for financial assistance from the Small Business Administration (SBA). Businesses of any size and most private nonprofit organizations may apply to the SBA for a loan to recover after a disaster.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-169-a-0",
+        "question": "Why can I apply to extend my leave to study?",
+        "scenario": "Despite my uncertainty about my leave, I am fortunate to have the backing of an independent educational institution that is sponsoring me.",
+        "answer": "Is your sponsor  an overseas HEI?",
+        "history": [
+            {
+                "follow_up_question": "Is your current sponsor a higher education institute (HEI)?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "261",
+        "snippet_seen": true,
+        "snippet": "### Who can sponsor you\n\nYou can only apply to extend your leave to study if your current sponsor is:\n\n* a higher education institute (HEI)\n* an overseas HEI\n* an embedded college offering pathway courses\n* an independent school",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-169-a-1",
+        "question": "Why can I apply to extend my leave to study?",
+        "scenario": "My leave is still a dubious matter for me, but I feel grateful that I have the support of an unaffiliated school that is sponsoring me.",
+        "answer": "Is your sponsor  an overseas HEI?",
+        "history": [
+            {
+                "follow_up_question": "Is your current sponsor a higher education institute (HEI)?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "261",
+        "snippet_seen": true,
+        "snippet": "### Who can sponsor you\n\nYou can only apply to extend your leave to study if your current sponsor is:\n\n* a higher education institute (HEI)\n* an overseas HEI\n* an embedded college offering pathway courses\n* an independent school",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-186-a-0",
+        "question": "Why may I not qualify for VA health care benefits?",
+        "scenario": "As a member of the National Guard, I am currently serving on active duty. Rather than pursuing a college education, I opted for a career in the military.",
+        "answer": "Were you active in the military?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "462",
+        "snippet_seen": true,
+        "snippet": "If you served in the active military service and were separated under any condition other than dishonorable, you may qualify for VA health care benefits. Current and former members of the Reserves or National Guard who were called to active duty by a Federal order and completed the full period for which they were called or ordered to active duty may be eligible for VA health benefits as well. Combat Veterans who served in a theater of combat operations after November 11, 1998 are eligible to enroll in PG 6 within 5 years from the date of discharge and will receive free health care services and nursing home care for conditions possibly related to their military service.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-186-a-1",
+        "question": "Why may I not qualify for VA health care benefits?",
+        "scenario": "Deployed on active duty with the National Guard, I have chosen to serve my country instead of enrolling in a college or university program. This profession allows me to contribute to society in a meaningful way.",
+        "answer": "Were you active in the military?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "462",
+        "snippet_seen": true,
+        "snippet": "If you served in the active military service and were separated under any condition other than dishonorable, you may qualify for VA health care benefits. Current and former members of the Reserves or National Guard who were called to active duty by a Federal order and completed the full period for which they were called or ordered to active duty may be eligible for VA health benefits as well. Combat Veterans who served in a theater of combat operations after November 11, 1998 are eligible to enroll in PG 6 within 5 years from the date of discharge and will receive free health care services and nursing home care for conditions possibly related to their military service.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-211-a-0",
+        "question": "What kind of pension will I get?",
+        "scenario": "As a citizen in the UK, I've lived here for 75 years and counting.",
+        "answer": "Did you reached State Pension age on or after 6 April 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "380",
+        "snippet_seen": true,
+        "snippet": "## You reached State Pension age on or after 6 April 2016\n\nYou won’t get the Additional State Pension if you reached State Pension age on or after 6 April 2016. You’ll get the new State Pension.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-211-a-1",
+        "question": "What kind of pension will I get?",
+        "scenario": "I have been a UK dweller for 75 years as I've grown with this beautiful country.",
+        "answer": "Did you reached State Pension age on or after 6 April 2016?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "380",
+        "snippet_seen": true,
+        "snippet": "## You reached State Pension age on or after 6 April 2016\n\nYou won’t get the Additional State Pension if you reached State Pension age on or after 6 April 2016. You’ll get the new State Pension.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-134-a-0",
+        "question": "How much is my basic State Pension?",
+        "scenario": "After dedicating over three decades to serving my country, I'm looking forward to retiring and enjoying my pension. ",
+        "answer": "Do you have fewer than 30 qualifying years?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "540",
+        "snippet_seen": true,
+        "snippet": "#  3. Eligibility\n\nIf you have fewer than 30 qualifying years, your basic State Pension will be less than £122.30 per week but you might be able to top up by paying voluntary National Insurance contributions.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-134-a-1",
+        "question": "How much is my basic State Pension?",
+        "scenario": "Now that I've completed 30 years of service to my country, I'm excited to retire and start receiving my pension.",
+        "answer": "Do you have fewer than 30 qualifying years?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "540",
+        "snippet_seen": true,
+        "snippet": "#  3. Eligibility\n\nIf you have fewer than 30 qualifying years, your basic State Pension will be less than £122.30 per week but you might be able to top up by paying voluntary National Insurance contributions.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-25-a-0",
+        "question": "Why can I charge VAT on this?",
+        "scenario": "I like to maintain a clear boundary between my professional and personal life, so I prefer not to mix the two.",
+        "answer": "Is it a non-sales item?",
+        "history": [
+            {
+                "follow_up_question": "Are you a member of the staff?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is it a business good used for personal reasons?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "193",
+        "snippet_seen": true,
+        "snippet": "#  1. How VAT works\n\nVAT is charged on things like:\n\n* items sold to staff - for example canteen meals\n* business goods used for personal reasons\n* ‘non-sales’ like bartering, part-exchange and gifts",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-25-a-1",
+        "question": "Why can I charge VAT on this?",
+        "scenario": "I have a policy in place where I do not intertwine my work and personal affairs, so my business and personal life are kept separate.",
+        "answer": "Is it a non-sales item?",
+        "history": [
+            {
+                "follow_up_question": "Are you a member of the staff?",
+                "follow_up_answer": "No"
+            },
+            {
+                "follow_up_question": "Is it a business good used for personal reasons?",
+                "follow_up_answer": "No"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "193",
+        "snippet_seen": true,
+        "snippet": "#  1. How VAT works\n\nVAT is charged on things like:\n\n* items sold to staff - for example canteen meals\n* business goods used for personal reasons\n* ‘non-sales’ like bartering, part-exchange and gifts",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-146-a-0",
+        "question": "Why can't I export this luxury good to North Korea?",
+        "scenario": "A set of age-old currency from the Aztec empire in the 1200s has been discovered.",
+        "answer": "Is the product a hand knotted carpet, hand woven rug or tapestry?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "35",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* hand knotted carpets, hand woven rugs and tapestries\n* pearls, precious and semi precious stones, articles of pearls, jewellery, gold or silversmith articles\n* coins and banknotes that aren’t legal tender - for example, antique coins\n* cutlery made from precious metal or plated or clad with precious metal",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-146-a-1",
+        "question": "Why can't I export this luxury good to North Korea?",
+        "scenario": "Unearthed are numerous Aztec coins that date back to the 13th century, offering insight into their currency system.",
+        "answer": "Is the product a hand knotted carpet, hand woven rug or tapestry?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "35",
+        "snippet_seen": true,
+        "snippet": "## North Korea\n\nThe banned luxury goods for North Korea are:\n\n* hand knotted carpets, hand woven rugs and tapestries\n* pearls, precious and semi precious stones, articles of pearls, jewellery, gold or silversmith articles\n* coins and banknotes that aren’t legal tender - for example, antique coins\n* cutlery made from precious metal or plated or clad with precious metal",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-100-a-0",
+        "question": "Why is this Federal Housing Administration's (FHA) Energy Efficient Mortgage (EEM) program suitable for me?",
+        "scenario": "I tied the knot in the month of May in the year 2017.",
+        "answer": "Are you a homeowner?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "234",
+        "snippet_seen": true,
+        "snippet": "The Federal Housing Administration's (FHA) Energy Efficient Mortgage (EEM) program recognizes that lower utility costs can help a homeowner pay a higher mortgage to cover the cost of energy improvements. Under the program, persons may add the cost of energy-efficient improvements to their loan amount.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-100-a-1",
+        "question": "Why is this Federal Housing Administration's (FHA) Energy Efficient Mortgage (EEM) program suitable for me?",
+        "scenario": "During the fifth month of 2017, I said my vows and officially became a spouse.",
+        "answer": "Are you a homeowner?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "234",
+        "snippet_seen": true,
+        "snippet": "The Federal Housing Administration's (FHA) Energy Efficient Mortgage (EEM) program recognizes that lower utility costs can help a homeowner pay a higher mortgage to cover the cost of energy improvements. Under the program, persons may add the cost of energy-efficient improvements to their loan amount.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-97-a-0",
+        "question": "Why can't I be classified as a worker?",
+        "scenario": "Although I am receiving benefits from the ESA, I am concerned that the amount I am receiving is more than what I am entitled to. Therefore, I am planning to review my finances to make sure that I am paying the correct amount of contributions towards the ESA. ",
+        "answer": "Are you under the supervision or control of a manager or director?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "401",
+        "snippet_seen": true,
+        "snippet": "## Casual or irregular work\n\nSomeone is likely to be a worker if one of these apply:\n\n* they are under the supervision or control of a manager or director\n* they can’t send someone else to do their work\n* the business deducts tax and National Insurance contributions from their wages\n* the business provides materials, tools or equipment they need to do the work",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-97-a-1",
+        "question": "Why can't I be classified as a worker?",
+        "scenario": "The ESA benefits that I am currently receiving seem to be higher than they should be. As a responsible citizen, I have decided to assess my financial status and ensure that I am contributing the right amount towards the ESA. This will not only help me maintain financial integrity but also ensure that the benefits I receive are fair and justified.",
+        "answer": "Are you under the supervision or control of a manager or director?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "401",
+        "snippet_seen": true,
+        "snippet": "## Casual or irregular work\n\nSomeone is likely to be a worker if one of these apply:\n\n* they are under the supervision or control of a manager or director\n* they can’t send someone else to do their work\n* the business deducts tax and National Insurance contributions from their wages\n* the business provides materials, tools or equipment they need to do the work",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-110-a-0",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "As an independent business owner, I'd like to request your assistance with a few inquiries that pertain to my operations. ",
+        "answer": "Is the purpose of your business is to buy and sell property?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-110-a-1",
+        "question": "What kind of tax will I have to pay?",
+        "scenario": "In my role as a solitary trader, I was hoping to seek your guidance with a handful of business queries.",
+        "answer": "Is the purpose of your business is to buy and sell property?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "19",
+        "snippet_seen": true,
+        "snippet": "#  3. Businesses\n\nIf the purpose of your business is to buy and sell property (you’re a property developer, for example) you don’t pay Capital Gains Tax when you sell a property. Instead, you pay:\n\n* Income Tax - if you’re a sole trader or partner\n* Corporation Tax - if you’re a limited company",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-32-a-0",
+        "question": "Why can't I stop paying Class 1 National Insurance?",
+        "scenario": "Although I haven't reached the age to receive pension yet, I work as a wheat farmer to make a living. Taking environmental safety into consideration, I ensure that all the crops are grown using eco-friendly methods.",
+        "answer": "Are you employed?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "101",
+        "snippet_seen": true,
+        "snippet": "## When you stop paying\n\nIf you’re employed, you stop paying Class 1 National Insurance when you reach the State Pension age.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-32-a-1",
+        "question": "Why can't I stop paying Class 1 National Insurance?",
+        "scenario": "Even though I'm ineligible to receive pension, I sustain myself by cultivating wheat as a farmer. I prioritize environmental well-being by adhering to all the safety measures during the farming process.",
+        "answer": "Are you employed?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "101",
+        "snippet_seen": true,
+        "snippet": "## When you stop paying\n\nIf you’re employed, you stop paying Class 1 National Insurance when you reach the State Pension age.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-78-a-0",
+        "question": "Who do I contact regarding a claim? ",
+        "scenario": "I am seeking additional information regarding a statement that has been presented to me in recent days, as I require further clarification.",
+        "answer": "Is it your claim?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "122",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can:\n\n* contact the Tax Credit Office about someone else’s claim - as an authorised intermediary",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-78-a-1",
+        "question": "Who do I contact regarding a claim? ",
+        "scenario": "I am in need of more details on a particular assertion that has been communicated to me over the last few days. Further clarification is necessary.",
+        "answer": "Is it your claim?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "122",
+        "snippet_seen": true,
+        "snippet": "#  1. Overview\n\nYou can:\n\n* contact the Tax Credit Office about someone else’s claim - as an authorised intermediary",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-120-a-0",
+        "question": "Why can I export this plant?",
+        "scenario": "As the owner of a plant export business, I am a 43-year-old American man. I am grateful that our plants come from areas that don't have fireblight buffer zone status, ensuring their safety. ",
+        "answer": "Are you sending it to another ‘protected zone’?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "229",
+        "snippet_seen": true,
+        "snippet": "#  Export plants, seeds, bulbs and wood: special rules\n\nIf your plant is a fireblight host, you can only send it to another ‘protected zone’ if they come from a place with  fireblight buffer zone status (PDF, 202KB, 2 pages)  . Contact the Plant Health Office if you’re not sure where protected zones are.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-120-a-1",
+        "question": "Why can I export this plant?",
+        "scenario": "My plant export business is owned and operated by a middle-aged American man. Our plants are sourced from regions that don't have fireblight buffer zone status, which fortunately keeps them safe.",
+        "answer": "Are you sending it to another ‘protected zone’?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "229",
+        "snippet_seen": true,
+        "snippet": "#  Export plants, seeds, bulbs and wood: special rules\n\nIf your plant is a fireblight host, you can only send it to another ‘protected zone’ if they come from a place with  fireblight buffer zone status (PDF, 202KB, 2 pages)  . Contact the Plant Health Office if you’re not sure where protected zones are.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-111-a-0",
+        "question": "Why am I eligible for unemployment benefits?",
+        "scenario": "I used to work at Starbucks in Seattle hoping to interact with women, but I never found the right one among the customers despite the constant flow of females in the store and I am still unmarried.",
+        "answer": "Did you work at least 680 in your base year?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "146",
+        "snippet_seen": true,
+        "snippet": "## If you did work in Washington state or were discharged from the military\n\nTo determine if you are eligible for unemployment benefits we examine:\n\n1. Whether you worked enough hours in your base year:\n* You must have worked at least 680 hours in your base year.\n* At least some wages must have been earned in Washington, unless you recently left the military and are currently located in Washington state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-111-a-1",
+        "question": "Why am I eligible for unemployment benefits?",
+        "scenario": "Some years back, I was employed by Starbucks in Seattle intending to use it as a means to meet potential partners - women. In all honesty, numerous females came through the store over time, but it never resulted in marriage as I was unable to find a suitable match.",
+        "answer": "Did you work at least 680 in your base year?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "146",
+        "snippet_seen": true,
+        "snippet": "## If you did work in Washington state or were discharged from the military\n\nTo determine if you are eligible for unemployment benefits we examine:\n\n1. Whether you worked enough hours in your base year:\n* You must have worked at least 680 hours in your base year.\n* At least some wages must have been earned in Washington, unless you recently left the military and are currently located in Washington state.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-57-a-0",
+        "question": "Why isn't the Social Security Divorced Spouse Benefits program suitable for me?",
+        "scenario": "My partner is not entitled to any advantages.My significant other is not being given any perks. My spouse is not receiving any benefits whatsoever. They are not entitled to any remuneration. My husband/wife is not receiving any sort of extra perks.",
+        "answer": "Are you divorced?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "369",
+        "snippet_seen": true,
+        "snippet": "The Social Security Divorced Spouse Benefits are a federally funded program administered by the U.S. Social Security Administration (SSA). These benefits are paid to divorced spouses of workers who are receiving (or are eligible to receive) Social Security benefits.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-57-a-1",
+        "question": "Why isn't the Social Security Divorced Spouse Benefits program suitable for me?",
+        "scenario": "New_Scenario2:My mate is not benefiting from any incentives. My companion is not receiving any benefits. My better half is not eligible for any advantages. They are not receiving any sort of benefits. My partner is not obtaining any additional benefits.",
+        "answer": "Are you divorced?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "369",
+        "snippet_seen": true,
+        "snippet": "The Social Security Divorced Spouse Benefits are a federally funded program administered by the U.S. Social Security Administration (SSA). These benefits are paid to divorced spouses of workers who are receiving (or are eligible to receive) Social Security benefits.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-69-a-0",
+        "question": "Why am I eligible for 16 to 19 Bursary Fund?",
+        "scenario": "As an immigrant under the Tier 1 Visa category, I earn a weekly income of £365 through my IT support business in the UK. ",
+        "answer": "Do you study at a publicly funded school or college?",
+        "history": [
+            {
+                "follow_up_question": "Are you at least 16 and under 19 on  31 August 2017?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "386",
+        "snippet_seen": true,
+        "snippet": "#  3. Eligibility\n\nYou must:\n\n* be at least 16 and under 19 on 31 August 2017\n* study at a publicly funded school or college, or be on an unpaid training course\n* meet the residency requirements - your school or college can check this",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-69-a-1",
+        "question": "Why am I eligible for 16 to 19 Bursary Fund?",
+        "scenario": "My venture in the IT support sector yields me a weekly revenue of £365 as a Tier 1 Visa holder operating in the UK.",
+        "answer": "Do you study at a publicly funded school or college?",
+        "history": [
+            {
+                "follow_up_question": "Are you at least 16 and under 19 on  31 August 2017?",
+                "follow_up_answer": "Yes"
+            }
+        ],
+        "evidence": [],
+        "gold_snippet_id": "386",
+        "snippet_seen": true,
+        "snippet": "#  3. Eligibility\n\nYou must:\n\n* be at least 16 and under 19 on 31 August 2017\n* study at a publicly funded school or college, or be on an unpaid training course\n* meet the residency requirements - your school or college can check this",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-171-a-0",
+        "question": "Why can I charge the standard rate for this good?",
+        "scenario": "At present, I reside by myself and my dwelling is rented out to me by an individual property owner.",
+        "answer": "Are the goods or services classed as reduced or zero-rated?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "522",
+        "snippet_seen": true,
+        "snippet": "### Standard rate\n\nMost goods and services are standard rate. You should charge this rate unless the goods or services are classed as reduced or zero-rated.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-171-a-1",
+        "question": "Why can I charge the standard rate for this good?",
+        "scenario": "I'm presently living on my own and leasing my space from an unaffiliated landlord.",
+        "answer": "Are the goods or services classed as reduced or zero-rated?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "522",
+        "snippet_seen": true,
+        "snippet": "### Standard rate\n\nMost goods and services are standard rate. You should charge this rate unless the goods or services are classed as reduced or zero-rated.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-83-a-0",
+        "question": "What allowance will I get?",
+        "scenario": "As of late, I discovered I am expecting and I am unsure if there are any advantages that may apply to me.",
+        "answer": "Did you get SMP?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "85",
+        "snippet_seen": true,
+        "snippet": "## Statutory Maternity Pay (SMP)\n\nIf you can’t get SMP, you might be eligible for Maternity Allowance.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    },
+    {
+        "utterance_id": "u-ts-83-a-1",
+        "question": "What allowance will I get?",
+        "scenario": "My current situation involves me being pregnant and I am uncertain about the possibility of obtaining any benefits.",
+        "answer": "Did you get SMP?",
+        "history": [],
+        "evidence": [],
+        "gold_snippet_id": "85",
+        "snippet_seen": true,
+        "snippet": "## Statutory Maternity Pay (SMP)\n\nIf you can’t get SMP, you might be eligible for Maternity Allowance.",
+        "conversational": true,
+        "unanswerable": false,
+        "is_followup": true
+    }
+]
