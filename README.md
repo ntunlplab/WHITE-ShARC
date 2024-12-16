@@ -167,13 +167,19 @@ Additionally, ChatGPT-generated scenarios were slightly longer, increasing the c
 ## Dataset
 
 It is divided into train, validation (dev), and test sets, with further distinctions for augmented data and scenarios involving "seen" and "unseen" rule texts.
+
 Data Augmentation (aug): Indicates data that has been augmented for improved training and evaluation.
+
 Seen: Refers to instances where the rule texts used in the questions also appear in the training set.
+
 Unseen: Refers to instances where the rule texts in the questions do not appear in the training set.
 
 ### Usage
+
 Multi-turn Question Answering: Assessing systems' ability to handle follow-up questions.
+
 Seen vs. Unseen Generalization: Evaluating model performance on rule texts encountered during training vs. new ones.
+
 Data Augmentation Evaluation: Analyzing the effect of augmented data on model performance.
 
 
